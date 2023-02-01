@@ -1,0 +1,2 @@
+this is master file.
+it's filetype is text.
