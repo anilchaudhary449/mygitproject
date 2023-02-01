@@ -5,3 +5,4 @@ it's filetype is text.This are some changes in master file.
 \n 3-changes in master file.
 changes in master file. And 'index.txt' file is delete.
 A-changes in master file.
+B-changes in master file.
