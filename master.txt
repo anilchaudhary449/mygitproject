@@ -1,2 +1,2 @@
 this is master file.
-it's filetype is text.
+it's filetype is text.This are some changes in master file.
